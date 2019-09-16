@@ -14,6 +14,7 @@ Burningkcal
     - RDBMS
     - Library : Maven(java), Lombok(java)
     - JDBC
+    - JSOUP(crawling)
     
 ## 4. subject
     - JDBC를 이용하여 java 와 DB 를 연동하여 작업
